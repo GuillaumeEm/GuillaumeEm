@@ -23,4 +23,4 @@ You can find my Malt freelance profile [here](https://www.malt.fr/profile/guilla
 
 
 [^1]: Btw I use ~Arch~ Manjaro.
-[^2]: [Why certifications and which ones ?](Certifications.md)
+[^2]: [Why certifications and which ones ?](https://github.com/GuillaumeEm/GuillaumeEm/blob/main/Certifications.md)
