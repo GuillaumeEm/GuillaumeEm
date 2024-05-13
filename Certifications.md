@@ -1,18 +1,18 @@
 # Certifications
 
-I would like to switch to a full-time DevOps/SRE career path. Since 2015, I have mainly held developer or software engineer positions with systems-related duties on the side. This makes it difficult for me to attest some of my abilities.
-
-I'm not a huge fan of certifications, but if it can open doors, why not ? I was convinced to consider this option, and worst case scenario, I will have learn something along the way.
+I would like to work more towards the DevOps/SRE spectrum of things. Since 2015, I have had a significant amount of systems-related duties, and it is something that I have come to appreciate more, of course, I will always enjoy creating things.
+Certifications will help me reach that end goal, and I am sure that I will learn a ton of new things.
 
 ### Progress
 
-| Name                         | What score today | Status | Link  |
+| Name                         | Score                                  | Status | Link  |
 | ---------------------------- |:--------------------------------------:| ------:| -----:|
 | Terraform Associate (003)    | ✅  Pass | [Credly badge](https://www.credly.com/badges/6eb9439d-b194-428f-beaf-db654bd8f3ec) | [Link](https://developer.hashicorp.com/certifications/infrastructure-automation) |
-| Terraform Authoring and Operations Professional | 🟨 Probably Pass | Certification is not available yet | [Link](https://developer.hashicorp.com/certifications/infrastructure-automation) |
-| AWS SysOps Administrator SOA-C02  | 🟨 May Pass | Scheduled in May | [Link](https://aws.amazon.com/certification/certified-sysops-admin-associate/) |
-| AWS DevOps Engineer DOP-C02  | 🟨 Average score | Started studying | [Link](https://aws.amazon.com/certification/certified-devops-engineer-professional/) |
-| Azure Administrator Associate AZ-104 | 🟥 Low to mid | Will start after AWS | [Link](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/) |
-| Azure DevOps Engineer AZ-400 | 🟥 Low to mid | Will start after AWS | [Link](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) |
-| CKA                          |  | Maybe Later | [Link](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) |
-| Comptia sec/cloud certs      |  | Maybe Later | [Link](https://www.comptia.org/certifications/) |
+| AWS SysOps Administrator SOA-C02  | ✅  Pass | [Credly badge](https://www.credly.com/badges/2ce0bc37-8087-4df8-9e69-850b5c3fc1bf) | [Link](https://aws.amazon.com/certification/certified-sysops-admin-associate/) |
+| CKA                          | 🟨 | Next cert ! | [Link](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) |
+| AWS DevOps Engineer DOP-C02  | 🟨 | Studying | [Link](https://aws.amazon.com/certification/certified-devops-engineer-professional/) |
+| Azure Administrator Associate AZ-104 | 🟥 | Start after AWS | [Link](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/) |
+| Azure DevOps Engineer AZ-400 | 🟥  | Start after AWS | [Link](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) |
+| Terraform Authoring and Operations Professional | 🟨 | Later, Cert not available | [Link](https://developer.hashicorp.com/certifications/infrastructure-automation) |
+| CKS                          | 🟥 | Later | [Link](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) |
+| Comptia sec certs      |  | Maybe Later | [Link](https://www.comptia.org/certifications/) |
