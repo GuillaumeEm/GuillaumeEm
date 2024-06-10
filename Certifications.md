@@ -9,10 +9,10 @@ Certifications will help me reach that end goal, and I am sure that I will learn
 | ---------------------------- |:--------------------------------------:| ------:| -----:|
 | Terraform Associate (003)    | ✅  Pass | [Credly badge](https://www.credly.com/badges/6eb9439d-b194-428f-beaf-db654bd8f3ec) | [Link](https://developer.hashicorp.com/certifications/infrastructure-automation) |
 | AWS SysOps Administrator SOA-C02  | ✅  Pass | [Credly badge](https://www.credly.com/badges/2ce0bc37-8087-4df8-9e69-850b5c3fc1bf) | [Link](https://aws.amazon.com/certification/certified-sysops-admin-associate/) |
-| CKA                          | 🟨 | Next cert ! | [Link](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) |
-| AWS DevOps Engineer DOP-C02  | 🟨 | Studying | [Link](https://aws.amazon.com/certification/certified-devops-engineer-professional/) |
-| Azure Administrator Associate AZ-104 | 🟥 | Start after AWS | [Link](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/) |
-| Azure DevOps Engineer AZ-400 | 🟥  | Start after AWS | [Link](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) |
+| AWS DevOps Engineer DOP-C02  | 🟨 | Next | [Link](https://aws.amazon.com/certification/certified-devops-engineer-professional/) |
+| CKA                          | 🟨 | Studying | [Link](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/) |
+| Azure Administrator Associate AZ-104 | 🟥 | Start after CKA | [Link](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-104/) |
+| Azure DevOps Engineer AZ-400 | 🟥  | Start after CKA | [Link](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-400/) |
 | Terraform Authoring and Operations Professional | 🟨 | Later, Cert not available | [Link](https://developer.hashicorp.com/certifications/infrastructure-automation) |
 | CKS                          | 🟥 | Later | [Link](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/) |
 | Comptia sec certs      |  | Maybe Later | [Link](https://www.comptia.org/certifications/) |
