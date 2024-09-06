@@ -1,6 +1,6 @@
 ## Hello There 👋
 
-I'm Guillaume, 30ish Software Engineer from France 🇫🇷, I use Php, Symfony, Linux, Python, Terraform and a quintillion of other stuff [^1].
+I'm Guillaume, 30ish Software Engineer from France 🇫🇷, I use Php, Symfony, Linux, Python, Terraform and a quintillion of other stuff.
 
 Usually on privates gitlab instances/repos for work, I will now try to publish my old and recent things here as I need a more visible portfolio
 
@@ -12,15 +12,12 @@ Usually on privates gitlab instances/repos for work, I will now try to publish m
 * And other contributions during my time with [xo7](https://xo7.fr), [harvest](https://www.harvest.fr), [matawan - wanreport](https://matawan-mobility.com/reporting-qualite-de-service/)
 
 #### Current Projects or Interests 🧭
-* PDF API Tooling, in the long term with rag & some AI labeling capabilities [Docamate](https://docamate.com)
-* A small private project that I restarted at least 10times since 2020,
+* Knowledge Management Platform : [Docamate](https://docamate.com)
+* Cloud news aggregator & insights from ressources : [Change-log.cloud](https://change-log.cloud)
 * Hosting personal services, Since 2012, I have been hosting some of my daily services on a VPS and intend to continue doing so
-* DevOps related certifications, I aim to be certified [AWS DevOps Engineer](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/) at the end of June [^2]
+* Learning new things with [Exercism](https://exercism.org) & [Pluralsight](https://www.pluralsight.com/get-started)
+* DevOps related [certifications](https://github.com/GuillaumeEm/GuillaumeEm/blob/main/Certifications.md), I aim to be certified [AWS DevOps Engineer](https://aws.amazon.com/fr/certification/certified-devops-engineer-professional/) at the end of ~June~ Year
 
 Feel free to contact me [here](mailto:guillaume@1gem.dev) for work or other stuff
 
 You can find my Malt freelance profile [here](https://www.malt.fr/profile/guillaumemoal)
-
-
-[^1]: Btw I use ~Arch~ Manjaro.
-[^2]: [Why certifications and which ones ?](https://github.com/GuillaumeEm/GuillaumeEm/blob/main/Certifications.md)
